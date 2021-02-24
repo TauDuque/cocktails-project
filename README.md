@@ -5,6 +5,8 @@ I started developing this project in order to get familiar with some ReactJs Hoo
 
 <img src="https://github.com/TauDuque/cocktails-project/blob/main/cocktails.gif" />
 
+Live Demo: https://menu-drinks.netlify.app/
+
 ## Tech Stack
 <ul>
   <li> HTML
